@@ -39,7 +39,7 @@ The omnigenai_toolkit is an innovative Python package designed to streamline the
 To install the omnigenai_toolkit, use `pip`:
 
 ```bash
-pip install OmniGenAI-toolkit
+pip install omnigenai_toolkit
 ```
 
 ---
@@ -48,7 +48,7 @@ pip install OmniGenAI-toolkit
 Here’s a quick example demonstrating how to use the omnigenai_toolkit to build a simple chat application:
 
 ```python
-from OmniGenAI_toolkit import ModelManager, StreamlitApp
+from omnigenai_toolkit import ModelManager, StreamlitApp
 
 # Initialize model manager
 model_manager = ModelManager(model_name="gpt-3")
