@@ -1,9 +1,9 @@
-# OmniGenAI Toolkit
+# omnigenai_toolkit
 
-## **Innovative Python Package: OmniGenAI Toolkit**
+## **Innovative Python Package: omnigenai_toolkit**
 
 ### **Overview**
-The OmniGenAI Toolkit is an innovative Python package designed to streamline the development of Generative AI applications. It provides a comprehensive suite of tools for building, deploying, and managing AI models, particularly focusing on Large Language Models (LLMs) and multimodal applications. This toolkit simplifies the integration of various AI functionalities, making it accessible for both beginners and experienced developers.
+The omnigenai_toolkit is an innovative Python package designed to streamline the development of Generative AI applications. It provides a comprehensive suite of tools for building, deploying, and managing AI models, particularly focusing on Large Language Models (LLMs) and multimodal applications. This toolkit simplifies the integration of various AI functionalities, making it accessible for both beginners and experienced developers.
 
 ---
 
@@ -36,7 +36,7 @@ The OmniGenAI Toolkit is an innovative Python package designed to streamline the
 ---
 
 ## **Installation**
-To install the OmniGenAI Toolkit, use `pip`:
+To install the omnigenai_toolkit, use `pip`:
 
 ```bash
 pip install OmniGenAI-toolkit
@@ -45,7 +45,7 @@ pip install OmniGenAI-toolkit
 ---
 
 ## **Example Usage**
-Here’s a quick example demonstrating how to use the OmniGenAI Toolkit to build a simple chat application:
+Here’s a quick example demonstrating how to use the omnigenai_toolkit to build a simple chat application:
 
 ```python
 from OmniGenAI_toolkit import ModelManager, StreamlitApp
@@ -68,6 +68,6 @@ if __name__ == "__main__":
 ---
 
 ## **Conclusion**
-The OmniGenAI Toolkit is designed to empower developers by providing essential tools for building advanced AI applications efficiently. By integrating model management, data handling, interactive interfaces, multi-modal capabilities, RAG systems, and collaboration features, this package caters to a wide range of use cases in the Generative AI landscape. 
+The omnigenai_toolkit is designed to empower developers by providing essential tools for building advanced AI applications efficiently. By integrating model management, data handling, interactive interfaces, multi-modal capabilities, RAG systems, and collaboration features, this package caters to a wide range of use cases in the Generative AI landscape. 
 
-Whether you're a beginner or an experienced developer, the OmniGenAI Toolkit will help you create impactful AI solutions with ease.
+Whether you're a beginner or an experienced developer, the omnigenai_toolkit will help you create impactful AI solutions with ease.

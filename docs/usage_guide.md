@@ -1,6 +1,6 @@
-# Usage Guide for OmniGenAI Toolkit
+# Usage Guide for omnigenai_toolkit
 
-The **OmniGenAI Toolkit** is a Python package designed to streamline the development of Generative AI applications. This guide will help you get started with the package and provide examples of how to use its core features.
+The **omnigenai_toolkit** is a Python package designed to streamline the development of Generative AI applications. This guide will help you get started with the package and provide examples of how to use its core features.
 
 ---
 

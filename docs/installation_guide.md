@@ -1,6 +1,6 @@
-# Installation Guide for OmniGenAI Toolkit
+# Installation Guide for omnigenai_toolkit
 
-The **OmniGenAI Toolkit** is a Python package designed to simplify the development and deployment of Generative AI applications. This guide will walk you through the steps to install the package and set up your environment.
+The **omnigenai_toolkit** is a Python package designed to simplify the development and deployment of Generative AI applications. This guide will walk you through the steps to install the package and set up your environment.
 
 ---
 
@@ -29,7 +29,7 @@ Before you begin, ensure the following prerequisites are met:
 ## Installation
 
 ### Step 1: Install from PyPI
-The OmniGenAI Toolkit is available on PyPI and can be installed using `pip`:
+The omnigenai_toolkit is available on PyPI and can be installed using `pip`:
 ```bash
 pip install OmniGenAI-toolkit
 ```

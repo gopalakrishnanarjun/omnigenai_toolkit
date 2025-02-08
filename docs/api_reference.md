@@ -1,7 +1,7 @@
-# API Reference for OmniGenAI Toolkit
+# API Reference for omnigenai_toolkit
 
 ## Overview
-The **OmniGenAI Toolkit** provides a collection of tools and utilities for building, deploying, and managing Generative AI applications. This document outlines the modules and their key functions, providing developers with a clear guide on how to use the package.
+The **omnigenai_toolkit** provides a collection of tools and utilities for building, deploying, and managing Generative AI applications. This document outlines the modules and their key functions, providing developers with a clear guide on how to use the package.
 
 ---
 
