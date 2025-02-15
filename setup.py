@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='omnigenai_toolkit',
-    version='0.0.2',
+    version='1.0.0',
     description='A Python package for Generative AI applications',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
