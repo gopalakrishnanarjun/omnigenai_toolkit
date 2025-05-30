@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+omnigenai_toolkit/__init__.py
+omnigenai_toolkit/chatbot.py
+omnigenai_toolkit.egg-info/PKG-INFO
+omnigenai_toolkit.egg-info/SOURCES.txt
+omnigenai_toolkit.egg-info/dependency_links.txt
+omnigenai_toolkit.egg-info/top_level.txt
+tests/test_chatbot.py
